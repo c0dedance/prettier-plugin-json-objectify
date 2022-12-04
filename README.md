@@ -8,8 +8,7 @@ const o = {
   'pkg-name': 'prettier-plugin-json-objectify'
 }
 const o = {
-- 'name': 'prettier',
-+ name: 'prettier',
+  name: 'prettier',
   'pkg-name': 'prettier-plugin-json-objectify'
 }
 ~~~
