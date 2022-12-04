@@ -1,0 +1,28 @@
+{
+  "name": "prettier-plugin-json-objectify",
+  "version": "1.0.0",
+  "description": "remove quote on Json object keys",
+  "main": "lib",
+  "keywords": [
+    "plugin",
+    "prettier",
+    "json",
+    "quote",
+    "object",
+    "objectify"
+  ],
+  "author": "c0dedance",
+  "license": "MIT",
+  "repository": "github:c0dedance/prettier-plugin-json-objectify",
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "peerDependencies": {
+    "prettier": ">=2.0.0"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.20.5",
+    "@babel/parser": "^7.20.5",
+    "@babel/traverse": "^7.20.5"
+  }
+}
